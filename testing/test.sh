@@ -3,8 +3,8 @@ cd source
 
 ## transform submodule to directory
 node ../../output/index.js directory,ultracoolesmodule
-node ../../output/index.js directory,asdmodule
-node ../../output/index.js directory,ultramodule
+# node ../../output/index.js directory,asdmodule
+# node ../../output/index.js directory,ultramodule
 # node ../../output/index.js directory,ooomodule
 # node ../../output/index.js directory,dirooomodule
 # node ../../output/index.js directory,testoomodule
