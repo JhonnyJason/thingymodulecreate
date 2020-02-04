@@ -7,3 +7,6 @@
 [submodule "output"]
 	path = output
 	url = git@github.com:JhonnyJason/thingymodulecreate-output.git
+[submodule "testing/source/ultracoolesmodule"]
+	path = testing/source/ultracoolesmodule
+	url = git@github.com:JhonnyJason/thingymodulecreate-ultracoolesmodule.git
