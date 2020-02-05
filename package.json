@@ -1,6 +1,6 @@
 {
     "name": "thingymodulecreate",
-    "version": "0.1.2",
+    "version": "0.1.3",
     "description": "This is the shit!",
     "scripts": {
         "build-coffee": "coffee -o output/ -c sources/source/*/*.coffee",
