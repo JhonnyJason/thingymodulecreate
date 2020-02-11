@@ -4,7 +4,7 @@ cd source
 ## transform submodule to directory
 # node ../../output/index.js directory,ultracoolesmodule
 # node ../../output/index.js directory,ultracoolesmodule
-# node ../../output/index.js directory,asdmodule
+node ../../output/index.js directory,asdmodule
 # node ../../output/index.js directory,ultramodule
 # node ../../output/index.js directory,ooomodule
 # node ../../output/index.js directory,dirooomodule
@@ -13,7 +13,7 @@ cd source
 
 ## construct submodule
 # node ../../output/index.js submodule,ultracoolesmodule,create,void
-node ../../output/index.js submodule,asdmodule,merge,lenny-unlicense
+# node ../../output/index.js submodule,asdmodule,merge,lenny-unlicense
 # node ../../output/index.js submodule,ultramodule,use,lenny-unlicense
 
 ## construct directory
