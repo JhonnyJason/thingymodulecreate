@@ -7,3 +7,6 @@
 [submodule "output"]
 	path = output
 	url = git@github.com:JhonnyJason/thingymodulecreate-output.git
+[submodule "testing/source/ultramodule"]
+	path = testing/source/ultramodule
+	url = git@gitlab.com:lenny09918050/lenny-unlicense.git
